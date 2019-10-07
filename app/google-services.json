@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330592403622",
+    "firebase_url": "https://pannu-english-classes-23e9e.firebaseio.com",
+    "project_id": "pannu-english-classes-23e9e",
+    "storage_bucket": "pannu-english-classes-23e9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330592403622:android:628a76d92be7414a",
+        "android_client_info": {
+          "package_name": "studio.golden.pannu_eng_classes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330592403622-ec0ra084ofd6d9tiri8s00ufkk3f3ham.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.golden.pannu_eng_classes",
+            "certificate_hash": "d54a697ced351a5647bc42e652abe8c3208c0d0a"
+          }
+        },
+        {
+          "client_id": "330592403622-bh5i4kgsqghsdnbtdu6drebdpn6al7t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYk-zOoUZMBIajfd9pPGZvZGyTPrKrctY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330592403622-bh5i4kgsqghsdnbtdu6drebdpn6al7t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
